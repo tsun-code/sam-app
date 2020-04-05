@@ -1,6 +1,11 @@
 
 # Created by https://www.gitignore.io/api/osx,node,linux,windows
 
+### SAM ###
+
+# Sam Build Package
+.aws-sam
+
 ### Linux ###
 *~
 
@@ -124,6 +129,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
 
 # End of https://www.gitignore.io/api/osx,node,linux,windows
