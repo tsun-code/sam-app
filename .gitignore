@@ -6,6 +6,7 @@
 # Sam Build Package
 .aws-sam
 packaged.yaml
+samconfig.toml
 
 ### Linux ###
 *~
