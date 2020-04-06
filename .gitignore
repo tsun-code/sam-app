@@ -5,6 +5,7 @@
 
 # Sam Build Package
 .aws-sam
+packaged.yaml
 
 ### Linux ###
 *~
